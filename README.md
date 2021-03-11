@@ -5,8 +5,8 @@
 </h3>
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/fazlullahmamond/" title="LinkedIn Profile"><img width="22" src="https://github.com/fazlullahmamond/fazlullahmamond/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/MAM0ND/" title="Facebook Profile"><img width="22" src="https://github.com/fazlullahmamond/fazlullahmamond/images/facebook.svg"> Facebook</a></code>
+    <a href="https://www.linkedin.com/in/fazlullahmamond/" title="LinkedIn Profile"><img width="22" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/MAM0ND/" title="Facebook Profile"><img width="22" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/facebook.svg"> Facebook</a></code>
 </h5>
 <br>
 <p align="center">
@@ -31,31 +31,31 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 
 <p align="center">
-  <code><img title="C++" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/django.png"></code>
-  <code><img title="Javascript" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/css.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/json.svg"></code>
-  <code><img title="Unity" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/android.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/npm.svg"></code>
-  <code><img title="PHP" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/php.svg"></code>
-  <code><img title="Flask" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/images/flask.png"></code>
+  <code><img title="C++" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/django.png"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/css.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/angularjs.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/vscode.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/json.svg"></code>
+  <code><img title="Unity" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/unity3d.svg"></code>
+  <code><img title="Android" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/android.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/npm.svg"></code>
+  <code><img title="PHP" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/php.svg"></code>
+  <code><img title="Flask" height="25" src="https://github.com/fazlullahmamond/fazlullahmamond/tree/main/images/flask.png"></code>
 </p>
 
 <hr>
